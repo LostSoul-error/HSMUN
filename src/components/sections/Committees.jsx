@@ -26,7 +26,7 @@ const COMMITTEES = [
     full: "International Criminal Court",
     agenda: "Prosecuting Crimes Against Humanity in Armed Conflicts",
     desc: "A courtroom simulation where delegates assume the roles of prosecutors, defence counsel, judges, and state representatives to deliberate on issues of international criminal justice and accountability.",
-    image: "\\assets\\committees\\icc.jpg",
+    image: "/assets/committees/icc.jpg",
     hue: "from-amber-900/60 to-forest-deep",
   },
 ];
