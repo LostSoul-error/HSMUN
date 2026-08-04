@@ -5,7 +5,7 @@ import ParticleCanvas from "@/components/ParticleCanvas";
 import MagneticButton from "@/components/MagneticButton";
 import { Download, ArrowDown } from "lucide-react";
 
-const APPLY_URL = "https://forms.gle/2ALRwMMz3nf433sb6";
+const APPLY_URL = "https://forms.gle/A3KdFDdf1iHMHENY9";
 
 export default function Hero() {
   const ref = useRef(null);

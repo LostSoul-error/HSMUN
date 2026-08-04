@@ -8,18 +8,18 @@ const CHAIRS = [
     members: [
       {
         name: "Chair — AIPPM",
-        desc: "Name",
-        image: "\\assets\\images\\test.jpg",
+        desc: "Shrijeeta Pathak",
+        image: "/assets/images/sp.jpg",
       },
       {
         name: "Chair — DISEC",
-        desc: "Name",
-        image: "\\assets\\images\\test.jpg",
+        desc: "Priyadarshini Mukhopadhyay",
+        image: "/assets/images/pm.jpg",
       },
       {
         name: "Chair — ICC",
-        desc: "Name",
-        image: "\\assets\\images\\test.jpg",
+        desc: "Nihita Saha",
+        image: "/assets/images/ns.jpg",
       },
     ],
   },
@@ -28,18 +28,18 @@ const CHAIRS = [
     members: [
       {
         name: "Vice Chair — AIPPM",
-        desc: "Name",
-        image: "\\assets\\images\\test.jpg",
+        desc: "Arpan Layek",
+        image: "/assets/images/al.jpg",
       },
       {
         name: "Vice Chair — DISEC",
-        desc: "Name",
-        image: "\\assets\\images\\test.jpg",
+        desc: "Shreemoyee Mondal Parui",
+        image: "/assets/images/smp.jpg",
       },
       {
         name: "Vice Chair — ICC",
-        desc: "Name",
-        image: "\\assets\\images\\test.jpg",
+        desc: "Ipsita Mukherjee",
+        image: "/assets/images/ipsita.jpg",
       },
     ],
   },

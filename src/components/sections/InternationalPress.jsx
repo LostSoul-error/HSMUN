@@ -27,34 +27,44 @@ const PRESS = [
 ];
 const IP_MEMBERS = [
   {
-    name: "Member Name",
+    name: "Kripa Aggarwal",
     role: "International Press — AIPPM",
-    image: "\\assets\\images\\test.jpg",
+    image: "/assets/images/ka.jpg",
   },
   {
-    name: "Member Name",
+    name: "Debayan Mukherjee",
     role: "International Press — AIPPM",
-    image: "\\assets\\images\\test.jpg",
+    image: "/assets/images/dm.jpg",
   },
   {
-    name: "Member Name",
+    name: "Amrita Sengupta",
+    role: "International Press — AIPPM",
+    image: "/assets/images/as.jpg",
+  },
+  {
+    name: "Anushree Banerjee ",
     role: "International Press — DISEC",
-    image: "\\assets\\images\\test.jpg",
+    image: "/assets/images/ab.jpg",
   },
   {
-    name: "Member Name",
+    name: "Najmin Parvin",
     role: "International Press — DISEC",
-    image: "\\assets\\images\\test.jpg",
+    image: "/assets/images/test.jpg",
   },
   {
-    name: "Member Name",
-    role: "International Press — ICC",
-    image: "\\assets\\images\\test.jpg",
+    name: "Shreejan Chakraborty",
+    role: "International Press — DISEC",
+    image: "/assets/images/sc.jpg",
   },
   {
-    name: "Member Name",
+    name: "Y. Ishita Murthy",
     role: "International Press — ICC",
-    image: "\\assets\\images\\test.jpg",
+    image: "/assets/images/yim.jpg",
+  },
+  {
+    name: "Titli Choudhury",
+    role: "International Press — ICC",
+    image: "/assets/images/tc.jpg",
   },
 ];
 
