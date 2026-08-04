@@ -7,7 +7,7 @@ const MEMBERS = [
   {
     name: "Rishav Digar",
     position: "Secretary-General",
-    image: "/assets/images/sg.png",
+    image: "/assets/images/sg.jpg",
     desc: "Providing the vision and leadership that shape HSMUN, ensuring a conference rooted in diplomacy, professionalism, and excellence."
   },
   {
