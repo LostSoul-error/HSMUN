@@ -3,7 +3,7 @@ import React, { useRef } from "react";
 import { motion, useInView } from "framer-motion";
 import Reveal from "@/components/Reveal";
 
-// import aippm from "@/assets/committees/aippm.jpg";
+// import aippm from "@/assets/committees/aippm.webp";
 
 
 // import { Image } from "@/components/ui/image";
@@ -14,7 +14,7 @@ const COMMITTEES = [
     full: "All India Political Parties Meet",
     agenda: "Deliberation on the Rising Incidence of Examination Paper Leaks in India",
     desc: "A high-intensity parliamentary simulation where delegates represent India's political parties, debate national policies, negotiate alliances, and shape the country's legislative future.",
-    image: "/assets/committees/aippm.jpg",
+    image: "/assets/committees/aippm.webp",
     hue: "from-orange-900/60 to-forest-deep",
   },
   {
@@ -22,7 +22,7 @@ const COMMITTEES = [
     full: "Disarmament and International Security Committee",
     agenda: "Addressing the Escalation of the Iran–Israel Conflict and its Implications for International Peace and Security",
     desc: "The First Committee of the United Nations General Assembly, focused on maintaining international peace, security, disarmament, and diplomatic cooperation.",
-    image: "/assets/committees/disec.jpg",
+    image: "/assets/committees/disec.webp",
     hue: "from-blue-900/60 to-forest-deep",
   },
   {
@@ -30,7 +30,7 @@ const COMMITTEES = [
     full: "International Criminal Court",
     agenda: "Prosecuting Crimes Against Humanity in Armed Conflicts",
     desc: "A courtroom simulation where delegates assume the roles of prosecutors, defence counsel, judges, and state representatives to deliberate on issues of international criminal justice and accountability.",
-    image: "/assets/committees/icc.jpg",
+    image: "/assets/committees/icc.webp",
     hue: "from-amber-900/60 to-forest-deep",
   },
 ];

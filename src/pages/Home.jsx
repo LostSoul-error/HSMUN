@@ -5,7 +5,10 @@ import Secretariat from "@/components/sections/Secretariat";
 import ExecutiveBoard from "@/components/sections/ExecutiveBoard";
 import InternationalPress from "@/components/sections/InternationalPress";
 import Committees from "@/components/sections/Committees";
+import OrganisingCommittee from "@/components/sections/OrganisingCommittee";
 import AgendaShowcase from "@/components/sections/AgendaShowcase";
+import CameraCrew from "@/components/sections/CameraCrew";
+import EditorTeam from "@/components/sections/EditorTeam";
 // import WhyJoin from "@/components/sections/WhyJoin";
 import RegistrationCTA from "@/components/sections/RegistrationCTA";
 import Footer from "@/components/sections/Footer";
@@ -22,8 +25,12 @@ export default function Home() {
       <Secretariat />
       <ExecutiveBoard />
       <InternationalPress />
+      <OrganisingCommittee />
+      <CameraCrew />
+      <EditorTeam />
       <Committees />
       <AgendaShowcase />
+
       {/* <WhyJoin /> */}
       <RegistrationCTA />
       <Footer />

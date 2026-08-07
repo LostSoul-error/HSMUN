@@ -7,37 +7,37 @@ const MEMBERS = [
   {
     name: "Rishav Digar",
     position: "Secretary-General",
-    image: "/assets/images/sg.jpg",
+    image: "/assets/images/sg.webp",
     desc: "Providing the vision and leadership that shape HSMUN, ensuring a conference rooted in diplomacy, professionalism, and excellence."
   },
   {
     name: "Adrija Podder",
     position: "Director-General",
-    image: "/assets/images/dg.jpg",
+    image: "/assets/images/dg.webp",
     desc: "Overseeing conference operations and coordinating every aspect of HSMUN to deliver a seamless delegate experience."
   },
   {
     name: "Titir Choudhury",
     position: "Head of International Press",
-    image: "/assets/images/iphead.jpg",
+    image: "/assets/images/iphead.webp",
     desc: "Leading the International Press Corps, supervising fact-checking, committee reporting, and press interactions throughout the conference."
   },
   {
     name: "Shritama Roy",
     position: "Organizing Committee Head",
-    image: "/assets/images/ochead.jpg",
+    image: "/assets/images/ochead.webp",
     desc: "Managing logistics, administration, and coordination to ensure every conference operation runs efficiently."
   },
   {
     name: "D. Drishita Biswas",
     position: "Creative Manager",
-    image: "/assets/images/db.jpg",
+    image: "/assets/images/db.webp",
     desc: "Crafting the visual identity of HSMUN through branding, design, and creative direction."
   },
   {
     name: "Adrija Maji",
     position: "Media Manager",
-    image: "/assets/images/Adrija Maji.jpg",
+    image: "/assets/images/Adrija Maji.webp",
     desc: "Capturing the conference through photography, videography, and digital media while showcasing HSMUN to a wider audience."
   },
 ];

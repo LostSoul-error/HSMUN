@@ -5,7 +5,7 @@ import ParticleCanvas from "@/components/ParticleCanvas";
 import MagneticButton from "@/components/MagneticButton";
 import { Download, ArrowDown } from "lucide-react";
 
-const APPLY_URL = "https://forms.gle/A3KdFDdf1iHMHENY9";
+const APPLY_URL = "https://forms.gle/KqNTLC5YUuuwsuon9";
 
 export default function Hero() {
   const ref = useRef(null);
@@ -81,7 +81,7 @@ export default function Hero() {
           transition={{ delay: 1.4, duration: 1 }}
           className="flex flex-col sm:flex-row gap-4 mt-10"
         >
-          <MagneticButton href={"https://forms.gle/2ALRwMMz3nf433sb6"} variant="gold">
+          <MagneticButton href={"https://forms.gle/KqNTLC5YUuuwsuon9"} variant="gold">
             Apply Now
           </MagneticButton>
           {/* <MagneticButton href="#" variant="glass">

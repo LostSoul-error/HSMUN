@@ -29,42 +29,42 @@ const IP_MEMBERS = [
   {
     name: "Kripa Aggarwal",
     role: "International Press — AIPPM",
-    image: "/assets/images/ka.jpg",
+    image: "/assets/images/ka.webp",
   },
   {
     name: "Debayan Mukherjee",
     role: "International Press — AIPPM",
-    image: "/assets/images/dm.jpg",
+    image: "/assets/images/dm.webp",
   },
   {
     name: "Amrita Sengupta",
     role: "International Press — AIPPM",
-    image: "/assets/images/as.jpg",
+    image: "/assets/images/as.webp",
   },
   {
     name: "Anushree Banerjee ",
     role: "International Press — DISEC",
-    image: "/assets/images/ab.jpg",
+    image: "/assets/images/ab.webp",
   },
   {
     name: "Najmin Parvin",
     role: "International Press — DISEC",
-    image: "/assets/images/test.jpg",
+    image: "/assets/images/np.webp",
   },
   {
     name: "Shreejan Chakraborty",
     role: "International Press — DISEC",
-    image: "/assets/images/sc.jpg",
+    image: "/assets/images/sc.webp",
   },
   {
     name: "Y. Ishita Murthy",
     role: "International Press — ICC",
-    image: "/assets/images/yim.jpg",
+    image: "/assets/images/yim.webp",
   },
   {
     name: "Titli Choudhury",
     role: "International Press — ICC",
-    image: "/assets/images/tc.jpg",
+    image: "/assets/images/tc.webp",
   },
 ];
 

@@ -3,7 +3,7 @@ import Reveal from "@/components/Reveal";
 import MagneticButton from "@/components/MagneticButton";
 import ParticleCanvas from "@/components/ParticleCanvas";
 
-const APPLY_URL = "https://forms.gle/A3KdFDdf1iHMHENY9";
+const APPLY_URL = "https://forms.gle/KqNTLC5YUuuwsuon9";
 
 export default function RegistrationCTA() {
   return (

@@ -19,7 +19,7 @@ export default function Footer() {
             <div className="w-28 h-28 md:w-32 md:h-32 rounded-full glass border border-gold-imperial/20 overflow-hidden flex items-center justify-center shadow-2xl shadow-gold-imperial/10">
 
               <img
-                src="/assets/images/LOGO CENTERED.png"
+                src="/assets/images/LOGO CENTERED.webp"
                 alt="HSMUN Logo"
                 className="w-full h-full object-contain"
               />
@@ -127,7 +127,7 @@ export default function Footer() {
             <p className="text-xs leading-7 text-parchment/40">
               Designed & Developed by{" "}
               <span className="gold-text font-semibold">
-                Rishav Digar
+                Rishav
               </span>{" "}
               using modern web technologies and AI-assisted development
               workflows.
